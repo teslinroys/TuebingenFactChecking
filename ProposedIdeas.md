@@ -1,5 +1,6 @@
-# Approaches for Subtask A
+# Approaches for Subtask A (fact vs. non-fact, opinion vs. socializing)
 - Simple logistic regression or SVM as a basis
+- Separate facts from non-facts, then classify opinions vs. socializing comments
 - Use of patterns to improve precision of fact vs non-fact estimation as suggested by Oraby et. al
 
 # Approaches for Subtask B (truth estimation)
