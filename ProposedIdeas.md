@@ -15,6 +15,7 @@ https://competitions.codalab.org/competitions/20022 (just as a reminder ;-) )
 
 # General improvement ideas related to both Tasks:
 - Parsing input (question / answers)
+- In some ways use output of Subtask A for Subtask B?
 
 # References
 Oraby et al. "And That's A Fact: Distinguishing Factual and Emotional Argumentation in Online Dialogue." In Proceedings of the 2nd Workshop on Argumentation Mining at NAACL. 2017. https://arxiv.org/pdf/1709.05295.pdf
